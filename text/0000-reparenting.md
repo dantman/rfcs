@@ -72,7 +72,7 @@ class Foo extends Component {
     componentDidMount() {
         console.log('Mounted');
     }
-    componmentWillUnmount() {
+    componentWillUnmount() {
         console.log('Unmounted');
     }
     render() {
